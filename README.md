@@ -1,4 +1,4 @@
-## Hi, I'm Bardia Ardakanian
+## Hi, I'm Bardia
 
 BSc Computer Engineering Student at [Amirkabir University of Technology](https://aut.ac.ir/en)
 
