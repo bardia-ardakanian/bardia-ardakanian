@@ -42,4 +42,3 @@ BSc Computer Engineering Student at [Amirkabir University of Technology](https:/
 
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=bardia-ardakanian&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-----
