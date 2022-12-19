@@ -49,8 +49,8 @@ Reach me via bardia.ardakanian@gmail.com
 ![](https://github-readme-streak-stats.herokuapp.com/?user=bardia-ardakanian&theme=dracula&hide_border=true)<br/>
 
 # Organizations
-![Courses I have passed since 2019](https://github.com/Computer-Engineering-Department-Archive)
-![Students Guild Council of Computer Engineering Department](https://github.com/CeShora)
+![Courses I have passed since 2019](https://github.com/Computer-Engineering-Department-Archive)<br/>
+![Students Guild Council of Computer Engineering Department](https://github.com/CeShora)<br/>
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=bardia-ardakanian&theme=dracula&no-frame=true&no-bg=false&margin-w=4)
