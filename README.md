@@ -1,16 +1,25 @@
 # Greetings, I'm Bardia!
 
-## About Me:
-I'm currently pursuing a BSc in Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/en). My interests lie in Back-end development, Data Analysis, Data Engineering, Data Science, and Machine Learning Engineering. I'm constantly exploring new technologies and pushing myself to the edge (sometimes falling off the edge, but that's how we learn!). Although my favorite language isn't HTML, I do have a love-hate relationship with Python, and I think Golang is pretty cool. In addition, I have a guilty pleasure for C. I enjoy contributing to open-source projects and creating useful, tangible software. Currently, I'm focusing on learning Docker and Kubernetes.
+## About Me
+I recently completed my BSc in Computer Engineering at [Amirkabir University of Technology](https://aut.ac.ir/en). My technical skills include proficiency in Python, PyTorch, TensorFlow, Keras, NumPy, R, C/C++, SQL, Docker, and Kubernetes. I enjoy contributing to open-source projects and developing practical, impactful software.
 
-If you have any questions, don't hesitate to reach out to me via bardia.ardakanian@gmail.com.
+## Course Archive
+As part of my academic journey, I've compiled an archive of course materials from the Computer Engineering Department. This archive contains over 100 repositories, providing valuable resources for students and enthusiasts alike. The repositories cover a range of topics and are open for contributions. If you find them useful or have improvements, please feel free to contribute!
 
-# Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)  ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Ant](https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) 
+Explore the archive here: [Computer Engineering Department Archive](https://github.com/Computer-Engineering-Department-Archive)
 
-# Connect with me  
+## Get in Touch
+If you have any questions or would like to connect, you can reach me at bardia.ardakanian@gmail.com or b.ardakanian@gmail.com.
+
+### Connect with me  
 <div align="center">
 <a href="https://www.linkedin.com/in/bardia-ardakanian-9600ab191" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+LinkedIn
 </a>  
+</div>
+
+<div align="center">
+<a href="https://scholar.google.ca/citations?view_op=list_works&hl=en&hl=en&user=DGQAXGMAAAAJ" target="_blank">
+  Google Scholar
+</a>
 </div>
